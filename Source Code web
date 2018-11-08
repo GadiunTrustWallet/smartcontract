@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Gadiun Trust Wallet</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Mobland - Mobile App Landing Page Template">
+    <meta name="keywords" content="HTML5, bootstrap, mobile, app, landing, ios, android, responsive">
+
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="css/themify-icons.css">
+
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+
+    <link rel="shortcut icon" href="images/favicon.ico"> 
+
+    <link href="css/style.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body data-spy="scroll" data-target="#navbar" data-offset="30">
+
+
+    <div class="nav-menu fixed-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav class="navbar navbar-dark navbar-expand-lg">
+                        <a class="navbar-brand" href="index.html"><img src="images/logo.png" class="img-fluid" alt="logo"></a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+                        <div class="collapse navbar-collapse" id="navbar">
+                            <ul class="navbar-nav ml-auto">
+                                <li class="nav-item"> <a class="nav-link active" href="#home">Home <span class="sr-only">(current)</span></a> </li>
+                                <li class="nav-item"> <a class="nav-link" href="#features">About Token</a> </li>
+                                <li class="nav-item"> <a class="nav-link" href="#pricing">Token Sale</a> </li>
+                                <li class="nav-item"> <a class="nav-link" href="#contact">Contact</a> </li>
+                                <li class="nav-item"><a href="#" class="btn btn-outline-light my-3 my-sm-0 ml-lg-3">Whitepaper</a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <header class="bg-gradient" id="home">
+        <div class="container mt-5">
+            <h1>Welcome To Gadiun Trust Wallet Website </h1>
+            <p class="tagline">Experience the unmatched power of flexible payments designed for ticket to ride </p>
+        </div>
+        <div class="img-holder mt-3"><img src="images/slide-device.png" alt="phone" class="img-fluid"></div>
+    </header>
+
+
+    <div class="section light-bg" id="features">
+
+
+        <div class="container">
+
+            <div class="section-title">
+                <h3>Features</h3>
+            </div>
+
+
+            <div class="row">
+                <div class="col-12 col-lg-4">
+                    <div class="card features">
+                        <div class="card-body">
+                            <div class="media">
+                                <span class="ti-face-smile gradient-fill ti-3x mr-3"></span>
+                                <div class="media-body">
+                                    <h4 class="card-title">Pay instantly, no plastic card needed</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="card features">
+                        <div class="card-body">
+                            <div class="media">
+                                <span class="ti-settings gradient-fill ti-3x mr-3"></span>
+                                <div class="media-body">
+                                    <h4 class="card-title">No bank account, credit card</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="card features">
+                        <div class="card-body">
+                            <div class="media">
+                                <span class="ti-lock gradient-fill ti-3x mr-3"></span>
+                                <div class="media-body">
+                                    <h4 class="card-title">More secure than using a plastic credit/debit card</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+    <div class="section light-bg">
+        <div class="container">
+            <div class="section-title">
+                <h3>Our Team</h3>
+            </div>
+
+            <ul class="nav nav-tabs nav-justified" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-toggle="tab" href="#communication">Founder</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#schedule">Community Manager</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#messages">UI/UX Developer</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#livechat">Lead Developer</a>
+                </li>
+            </ul>
+            <div class="tab-content">
+                <div class="tab-pane fade show active" id="communication">
+                    <div class="d-flex flex-column flex-lg-row">
+                        <img src="images/Avalon.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                        <div>
+
+                            <h2>Avalon Harpeden</h2>
+                            <p class="lead">Anything that won’t sell, I don’t want to invent. Its sale is proof of utility, and utility is success. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="schedule">
+                    <div class="d-flex flex-column flex-lg-row">
+                        <div>
+                            <h2>Gigi Wood</h2>
+                            <p class="lead">Act enthusiastic about exercising and dieting and you will be enthusiastic. </p>
+                        </div>
+                        <img src="images/Gigi.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="messages">
+                    <div class="d-flex flex-column flex-lg-row">
+                        <img src="images/NenaRont.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                        <div>
+                            <h2>Nena Ront</h2>
+                            <p class="lead">The big secret in life is that there is no big secret. Whatever your goal, you can get there if you’re willing to work.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="livechat">
+                    <div class="d-flex flex-column flex-lg-row">
+                        <div>
+                            <h2>Charity Freville</h2>
+                            <p class="lead">We did anything possible just to get revenues so that we could grow and be a real business.</p>
+                        </div>
+                        <img src="images/CharityFreville.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+    <div class="section">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="images/Distribution.png" alt="dual phone" class="img-fluid">
+                </div>
+                <div class="col-md-6 d-flex align-items-center">
+                    <div>
+                        <h2>Token Name </h2>
+                        <p class="mb-4">Gadiun Trust Wallet</p>
+                        <h2>Symbol </h2>
+                        <p class="mb-4">GTW</p>
+                        <h2>Contract </h2>
+                        <p class="mb-4">0xaa10481f5d50ab16355F17aB3Fb5309F2ac68037</p>
+                        <h2>Total Supply </h2>
+                        <p class="mb-4">8,000,000,000</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="section light-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 d-flex align-items-center">
+                    <ul class="list-unstyled ui-steps">
+                        <li class="media">
+                            <div class="media-body">
+                                <h5>How to buy Gadiun Trust Wallet Token?</h5>
+                                <p>Use ERC-20 wallet (not use exchange wallet)  </p>
+                            </div>
+                        </li>
+                        <li class="media my-4">
+                            <div class="media-body">
+                                <h5>Set GAS Price 9 gwei Set Gas Limit 100,000 </h5>
+                            </div>
+                        </li>
+                        <li class="media">
+                            <div class="media-body">
+                                <h5>Send your ETH to this Contract Address then We auto return Gadiun Trust Wallet Token </h5>
+                                <p>0xaa10481f5d50ab16355F17aB3Fb5309F2ac68037</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <img src="images/slide-device.png" alt="iphone" class="img-fluid">
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <!-- // end .section -->
+
+
+    <div class="section">
+        <div class="container">
+            <div class="section-title">
+                <h3>Our Roadmap</h3>
+            </div>
+
+            <div class="testimonials owl-carousel">
+                <div class="testimonials-single">
+                    <img src="images/h.png" alt="client" class="client-img">
+                    <blockquote class="blockquote">Token Launch, Selfdrop Begins, Start Airdrop, Release Of Whitepaper</blockquote>
+                    <h5 class="mt-4 mb-2">NOVEMBER 2018</h5>
+                </div>
+                <div class="testimonials-single">
+                    <img src="images/client.png" alt="client" class="client-img">
+                    <blockquote class="blockquote">Closing Of Selfdrop, Listing On Exchanges and Coinmaketcap Listing.</blockquote>
+                    <h5 class="mt-4 mb-2">DECEMBER 2018</h5>
+                </div>
+                <div class="testimonials-single">
+                    <img src="images/client.png" alt="client" class="client-img">
+                    <blockquote class="blockquote">List On More Exchanges, Release Demo HUP Marketplace</blockquote>
+                    <h5 class="mt-4 mb-2">Q1 2019</h5>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+        <div class="section" id="pricing">
+        <div class="container">
+            <div class="section-title">
+                <h3>Token Sale</h3>
+            </div>
+
+            <div class="card-deck">
+                <div class="card pricing">
+                    <div class="card-head">
+                        <span class="price">Round 1<sub></sub></span>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                    	<div class="list-group-item">From 0 ETH = 7000 TOKEN</div>
+                        <div class="list-group-item">Bonus 5%: From 0.1 ETH</div>
+                        <div class="list-group-item">Bonus 10%: From 0.5 ETH</div>
+                        <div class="list-group-item">Bonus 15%: From 1 ETH</div>
+                        <div class="list-group-item">10th November - 15th November</div>
+                    </ul>
+                    <div class="card-body">
+                        <a href="https://www.myetherwallet.com/#send-transaction" class="btn btn-primary btn-lg btn-block">1ETH = 10,000,000 GTW</a>
+                    </div>
+                </div>
+                <div class="card pricing popular">
+                    <div class="card-head">
+                        <span class="price">Round 2<sub></sub></span>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                    	<div class="list-group-item">From 0 ETH = 7000 TOKEN</div>
+                        <div class="list-group-item">Bonus 5%: From 0.1 ETH</div>
+                        <div class="list-group-item">Bonus 10%: From 0.5 ETH</div>
+                        <div class="list-group-item">Bonus 15%: From 1 ETH</div>
+                        <div class="list-group-item">16th November - 25th November</div>
+                    </ul>
+                    <div class="card-body">
+                        <a href="https://www.myetherwallet.com/#send-transaction" class="btn btn-primary btn-lg btn-block">1ETH = 9,000,000 GTW</a>
+                    </div>
+                </div>
+                <div class="card pricing">
+                    <div class="card-head">
+                        <span class="price">Round 3<sub></sub></span>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                    	<div class="list-group-item">From 0 ETH = 7000 TOKEN</div>
+                        <div class="list-group-item">Bonus 5%: From 0.1 ETH</div>
+                        <div class="list-group-item">Bonus 10%: From 0.5 ETH</div>
+                        <div class="list-group-item">Bonus 15%: From 1 ETH</div>
+                        <div class="list-group-item">26th November - 15th December</div>
+                    </ul>
+                    <div class="card-body">
+                        <a href="https://www.myetherwallet.com/#send-transaction" class="btn btn-primary btn-lg btn-block">1ETH = 9,000,000 GTW</a>
+                    </div>
+                </div>
+            </div>
+
+    <div class="section pt-0">
+        <div class="container">
+            <div class="section-title">
+                <small>FAQ</small>
+                <h3>Frequently Asked Questions</h3>
+            </div>
+            <div class="row pt-4">
+                <div class="col-md-6">
+                    <h4 class="mb-3">How do I pay with my phone?</h4>
+                    <p class="light-font mb-5">You can instantly pay your fare by tapping your phone on a Gadiun Trust Wallet reader using a mobile wallet. You have two options: 1. Buy an Adult fare with a credit/debit card using Google Pay, Apple Pay or Samsung Pay (no Gadiun Trust Wallet card needed!). You’ll automatically earn a day pass after paying for two trips in a day. Or 2. Download the Hop app to add a virtual Gadiun Trust Wallet card to your phone’s wallet (Android only at this time). With a virtual Gadiun Trust Wallet card you can pay Adult, Honored Citizen or Youth fares and earn both day and month passes as you ride. </p>
+                    <h4 class="mb-3">Why should I register my Gadiun Trust Wallet card?</h4>
+                    <p class="light-font mb-5">One of the best features of Gadiun Trust Wallet is that your money is protected in case your card is lost or stolen. But if you want this protection, you need to register your card first. (And remember to report your lost/stolen card as soon as you can!) When you register, you can also easily reload your card online and set up Auto-Load, so you’re never stuck without fare. And, if you need to manage multiple cards for a family or group, we’ve made it really easy to do so on GadiunTrustWallett.com or the Gadiun Trust Wallet app. </p>
+
+                </div>
+                <div class="col-md-6">
+                    <h4 class="mb-3">What if I get a pass from my employer?</h4>
+                    <p class="light-font mb-5">We’re working with local businesses, government agencies and colleges to get them up and running with Gadiun Trust Wallet, but they won’t all make the switch at the same time. If you’re used to getting a pass or a sticker through work, you’ll just need to remember to tap your Gadiun Trust Wallet card each time you board, including on MAX. To find out more, check with your HR department or your school’s transportation office. </p>
+                    <h4 class="mb-3">What if I use the TriMet Tickets app?</h4>
+                    <p class="light-font mb-5">You’ll be able to continue using the TriMet Tickets app for a while longer if you want, but there are a few very good reasons to switch to Gadiun Trust Wallet now: 1. You can save money, 2. You can instantly tap with your phone (no Hop card needed, and you don't need to show the operator your phone when you board), and 3. Because you earn passes as you go instead of buying them in advance, you only pay for the rides you actually take. </p>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- // end .section -->
+
+
+
+    <div class="section bg-gradient">
+        <div class="container">
+            <div class="call-to-action">
+
+                <div class="box-icon"><span class="ti-mobile gradient-fill ti-3x"></span></div>
+                <h2>Download</h2>
+                <p class="tagline">Available for all major mobile and desktop platforms. Rapidiously visualize optimal ROI rather than enterprise-wide methods of empowerment. </p>
+                <div class="my-4">
+
+                    <a href="#" class="btn btn-light"><img src="images/appleicon.png" alt="icon"> Available Soon</a>
+                    <a href="#" class="btn btn-light"><img src="images/playicon.png" alt="icon"> Available Soon</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="light-bg py-5" id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 text-center text-lg-left">
+                    <div class=" d-block d-sm-inline-block">
+                        <p class="mb-2">
+                            <span class="ti-email mr-2"></span> <a class="mr-4" href="mailto:support@mobileapp.com">admin@GadiunTrustWallet.com</a>
+                        </p>
+                    </div>
+                    <div class="d-block d-sm-inline-block">
+                        <p class="mb-0">
+                        </p>
+                    </div>
+
+                </div>
+                <div class="col-lg-6">
+                    <div class="social-icons">
+                        <a href="https://t.me/GadiunTrustWallet"><span class="fa fa-telegram"></span></a>
+                        <a href="https://twitter.com/GadiunTrust"><span class="ti-twitter-alt"></span></a>
+                        <a href="#"><span class="fa fa-github-square"></span></a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!-- // end .section -->
+    <footer class="my-5 text-center">
+        <!-- Copyright removal is not prohibited! -->
+        <p class="mb-2"><small>Copyright © 2018 Gadiun Trust Wallet All Right Reserved</p>
+    </footer>
+
+    <!-- jQuery and Bootstrap -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <!-- Plugins JS -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- Custom JS -->
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>
